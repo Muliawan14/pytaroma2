@@ -28,4 +28,4 @@ elif menu_pilihan == 4:
 else:
     print("Menu tidak valid")
 
-print("Luas bangun tersebut adalah", hasil, "cm")
+print("Luas bangun tersebut adalaaaaaah", hasil, "cmmmmmmmmmmmmmmmmmmmmmmmmm")
